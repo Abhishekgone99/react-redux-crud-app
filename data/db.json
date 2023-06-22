@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Alan Walker",
+      "address": "California",
+      "email": "alan.walker@gmail.com",
+      "contact": "8466645891"
+    },
+    {
+      "id": 2,
+      "name": "Sia",
+      "address": "London",
+      "email": "sia@gmail.com",
+      "contact": "8064764580"
+    },
+    {
+      "id": 3,
+      "name": "David Guetta ",
+      "address": "San Fransisco",
+      "email": "david.guetta@gmail.com",
+      "contact": "9856611112"
+    },
+    {
+      "name": "Rihana Star",
+      "email": "rina@gmail.com",
+      "contact": "8463146422",
+      "address": "hollywood",
+      "id": 4
+    }
+  ]
+}
